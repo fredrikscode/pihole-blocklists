@@ -5372,7 +5372,6 @@
 0.0.0.0 blrjcobzyt.duckdns.org
 0.0.0.0 bltlvfdcla.duckdns.org
 0.0.0.0 bludv.tv
-0.0.0.0 blue-verified-facebook-free@df9e2d2295f3e3.lhrtunnel.link
 0.0.0.0 bluebirdmagazine.com
 0.0.0.0 bluebitech.cl
 0.0.0.0 bluefor.me
